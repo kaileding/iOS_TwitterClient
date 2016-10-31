@@ -28,7 +28,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [√] Even spacing of reply, retweet, favorite and message buttons horizontally, with their count numbers 
-- [√] 
+- [√] Toggle the buttons and count number when retweet/unretweet or favorite/unfavorite a tweet
+- [√] Add loading indicator animation when reloading data from server before refreshing table
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -40,12 +41,13 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/kaileding/iOS_TwitterClient/blob/master/demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kaileding/iOS_TwitterClient/blob/master/demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Due to time limit, I didn't implement the countdown of tweet limit
 
 ## License
 
